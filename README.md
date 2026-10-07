@@ -22,3 +22,5 @@ python -m unittest discover -s tests -v
 ```
 
 The `.github/workflows/integration-ci.yml` file runs equivalent checks on GitHub Actions.
+
+## Architecture Overview: MediLink Integration Pipeline
